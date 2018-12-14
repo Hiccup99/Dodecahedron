@@ -1,4 +1,4 @@
-# OpenGL
+# Dodecahedron
 A C++ program to build a dodecahedron using GLUT library. The object can be rotated using the following keys.
 
 W-UP<br/>
