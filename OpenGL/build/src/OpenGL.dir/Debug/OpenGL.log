@@ -1,0 +1,3 @@
+﻿  Application.cpp
+C:\Users\Me\source\repos\OpenGL\OpenGL\src\Application.cpp(86): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  OpenGL.vcxproj -> C:\Users\Me\source\repos\OpenGL\OpenGL\build\src\Debug\OpenGL.exe
